@@ -17,7 +17,7 @@ let courses = [
     img: "./image/logo.jpg"
   },
   {
-    coursename: "Course example 3",
+    coursename: "BLOCKCHAIN MATHEMATICS AND COMPUTING",
     id: "123456789",
     issued: "leko",
     address: "abcxyzdefmno",

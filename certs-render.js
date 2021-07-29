@@ -12,8 +12,8 @@ let courses = [
     coursename: "Course example 2",
     id: "987654321",
     issued: "leko",
-    address: "xyzabcdefghi",
-    info: "this is another example of a course",
+    address: "0x05aAee206A52Ebf6e49C69f267B491BeB094401D",
+    info: "https://ipfs.io/ipfs/Qmedp8cmzUWZzPuWxbaYG6w7sEu9BCYhXD498U3GtuFR9F",
     img: "./image/logo.jpg"
   },
   {
